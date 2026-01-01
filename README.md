@@ -636,6 +636,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Udemy.com](https://www.udemy.com/)
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [Node School](https://nodeschool.io/)
+- [Digital Ocean](https://www.digitalocean.com/community)
 - [Exercism](http://www.exercism.org/)
 - [Egghead.io](http://www.egghead.io/)
 - [Michael Herman's Blog](http://mherman.org/)
